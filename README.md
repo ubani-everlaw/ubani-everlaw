@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ubani-everlaw, A Staff Security Engineer @Everlaw.
+👋 Hi, I’m @ubani-everlaw, A Staff Security Engineer @Everlaw.
 
 This README is underdevelopment
 
